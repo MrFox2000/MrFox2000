@@ -12,7 +12,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-6d6afc?style=flat-square)](https://github.com/MrFox2000/agentic-news-impact)
 [![MCP](https://img.shields.io/badge/MCP-2dd4bf?style=flat-square)](https://github.com/MrFox2000/agentic-news-impact)
 
-**[Portfolio site](https://mrfox2000.github.io/portfolio-site/)** · **[All repositories](https://github.com/MrFox2000?tab=repositories)**
+**[Portfolio site](https://mrfox2000.github.io/portfolio-site/)** · **[All repositories](https://github.com/MrFox2000?tab=repositories)** · **[LinkedIn](https://www.linkedin.com/in/ali-ahmadpour-dev/)**
 
 </div>
 
@@ -43,12 +43,12 @@ flowchart LR
 
 | Project | What it proves | Tests |
 |---|---|---|
-| **[AI PDF Chat](https://github.com/MrFox2000/ai-pdf-chat)** | Retrieval over your own documents with page-level citations, streaming answers, and an offline mode so it runs with no API key | 12 |
-| **[News → Price Impact](https://github.com/MrFox2000/agentic-news-impact)** | An agent whose tools are a real MCP server; LangGraph plan → collect → report, streamed live to the browser | 26 |
-| **[Django SaaS Starter](https://github.com/MrFox2000/django-saas-starter)** | Multi-tenancy done properly: the tenant lives in the JWT, roles per organisation, plans with metered quotas, Stripe | 29 |
-| **[SaaS Dashboard](https://github.com/MrFox2000/next-dashboard)** | The client for that API: role-aware controls, quota meter, and a `402` that becomes an upgrade prompt | — |
+| **[AI PDF Chat](https://github.com/MrFox2000/ai-pdf-chat)**<br/>[Live demo](https://ai-pdf-chat-two.vercel.app) | Retrieval over your own documents with page-level citations, streaming answers, and an offline mode so it runs with no API key | 12 |
+| **[News → Price Impact](https://github.com/MrFox2000/agentic-news-impact)**<br/>[Live demo](https://agentic-news-impact.vercel.app) | An agent whose tools are a real MCP server; LangGraph plan → collect → report, streamed live to the browser | 26 |
+| **[Django SaaS Starter](https://github.com/MrFox2000/django-saas-starter)**<br/>[Live API docs](https://django-saas-api.onrender.com/api/docs/) | Multi-tenancy done properly: the tenant lives in the JWT, roles per organisation, plans with metered quotas, Stripe | 29 |
+| **[SaaS Dashboard](https://github.com/MrFox2000/next-dashboard)**<br/>[Live demo](https://next-dashboard-phi-azure.vercel.app) | The client for that API: role-aware controls, quota meter, and a `402` that becomes an upgrade prompt | — |
 
-**63 automated tests. Zero mocked protocols.**
+**67 automated tests. Zero mocked protocols.**
 
 ## The stack, and where I have used it
 
@@ -75,6 +75,6 @@ Frontend    TypeScript, React, Next.js App Router, Tailwind,
 
 <div align="center">
 
-**[Portfolio](https://mrfox2000.github.io/portfolio-site/)** · **[Email](mailto:aliized1379@gmail.com)**
+**[Portfolio](https://mrfox2000.github.io/portfolio-site/)** · **[Email](mailto:aliahmadpour2000ir@gmail.com)**
 
 </div>
